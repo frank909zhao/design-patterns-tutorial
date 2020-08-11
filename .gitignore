@@ -1,0 +1,6 @@
+*.md
+*.pdf
+*.html
+*.jpg
+*.png
+!README.md
